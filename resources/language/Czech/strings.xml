@@ -11,7 +11,7 @@
     <string id="30107">Spustit test připojení...</string>
     <string id="30008">Up Next</string>
     <string id="30109">stream-cinema.online</string>
-    <string id="30110">Použiť SSL</string>
+    <string id="30110">Použít SSL</string>
     <string id="30111">Odhlásit z webshare.cz</string>
     <string id="30112">Odhlášení z webshare.cz bylo úspěšné</string>
     
@@ -23,34 +23,34 @@
     <string id="39001">Titulky nemusí být dostupné nebo synchonizované.</string>
     <string id="39002">V tom případě použijte vlastní titulky.</string>
     
-    <string id="30030">Stahovaní</string>
+    <string id="30030">Stahování</string>
     <string id="30301">složka pro stahovaní</string>
-    <string id="30302">Zobrazovat stav stahovaní</string>
+    <string id="30302">Zobrazovat stav stahování</string>
     <string id="30303"> - zobrazit stav každých</string>
     <string id="30311">10%</string>
     <string id="30312">5%</string>
     <string id="30313">1%</string>
     <string id="30304">Omezení vyrovnávací paměti pro stahování</string>
-    <string id="30314">Stahuju</string>
+    <string id="30314">Stahuje se</string>
     <string id="30315">Hotovo</string>
     <string id="30316">Chyba</string>
     
     <string id="30040">Knihovna</string>
     <string id="30400">Složka pro filmy</string>
     <string id="30401">Složka pro seriály</string>
-    <string id="30402">Zpozdit start služby o (minuty)</string>
+    <string id="30402">Opozdit start služby o (minuty)</string>
     <string id="30403">Čas pro obnovu seriálu (dni)</string>
     <string id="30404">Automaticky přidávat filmy do knihovny</string>
-    <string id="30405">Skontrolovat nové části</string>
+    <string id="30405">Zkontrolovat nové části</string>
     
     <string id="30050">SpeedTest</string>
     <string id="30500">Spustit test připojení...</string>
-    <string id="30501">Vyber stahované velikosti souborů</string>
+    <string id="30501">Vybrat stahované velikosti souborů</string>
     <string id="30502">Zapnutím filtrování se nemusí zobrazovat všechen dostupný obsah</string>
     <string id="30503">Naměrená rychlost (webshare.cz)</string>
     <string id="30504">Filtrovat streamy podle rychlosti</string>
     <!-- "250KB", "500KB", "1MB", "2MB", "4.5MB", "7.5MB", "12MB", "17MB", "24MB", "31MB" -->
-    <string id="30551">250KB - pomale připojení</string> 
+    <string id="30551">250KB - pomalé připojení</string> 
     <string id="30552">500KB</string> 
     <string id="30553">1MB</string> 
     <string id="30554">2MB - DSL</string> 
@@ -64,19 +64,19 @@
     <string id="30060">Aut. výběr streamu</string>
     <string id="30600">Povolit automatický výběr streamu</string>
     <string id="30601">Priorita výběru</string>
-    <string id="30602">Filtrování podle audia</string>
+    <string id="30602">Filtrování podle zvuku</string>
     <string id="30603">Primární jazyk</string>
     <string id="30604">Sekundární jazyk</string>
     <string id="30605">Filtrování podle kvality</string>
     <string id="30606">Vybraná kvalita</string>
-    <string id="30607">Vyradit HEVC stream</string>
+    <string id="30607">Vyřadit HEVC stream</string>
     <string id="30608">Podrobný výběr streamu</string>
     <string id="30609">Nabídnout následujíci epizodu</string>
-    <string id="30610">Vyradit 3D stream</string>
+    <string id="30610">Vyřadit 3D stream</string>
 
-    <string id="30070">Vyledávání</string>
+    <string id="30070">Vyhledávání</string>
     <string id="30700">Povolit historii</string>
-    <string id="30701">Počet položek v historií</string>
+    <string id="30701">Počet položek v historii</string>
 
     <!-- texty v menu -->
     <string id="30901">Filmy</string>
@@ -102,16 +102,16 @@
     <string id="30925">Knihovna</string>
     <string id="30926">Přidat do knihovny (vše)</string>
     <string id="30927">Poslední sledované</string>
-    <string id="30928">TV program na 14 dni</string>
+    <string id="30928">TV program na 14 dní</string>
     <string id="30929">Nově přidané</string>
     <string id="30930">1) Navštivte: [COLOR red]%s[/COLOR]</string>
     <string id="30931">2) Po výzvě zadejte [COLOR red]%s[/COLOR]</string>
-    <string id="30932">Účet už je autorizovany.[CR]Chcete se odhlasit?</string>
-    <string is="30933">Chcete se odhlasit?</string>
+    <string id="30932">Účet už je autorizovaný.[CR]Chcete se odhlásit?</string>
+    <string is="30933">Chcete se odhlásit?</string>
     
     <!-- trakt manager -->
     <string id="30934">Přidat do [B]Sbírky[/B]</string>
-    <string id="30935">Odstránit ze [B]Sbírky[/B]</string>
+    <string id="30935">Odstranit ze [B]Sbírky[/B]</string>
     <string id="30936">Přidat do [B]Seznamu ke shlédnutí[/B]</string>
     <string id="30937">Odebrat ze [B]Seznamu ke shlédnutí[/B]</string>
     <string id="30938">Přidat do [B]nového seznamu[/B]</string>
@@ -125,19 +125,19 @@
     <string id="30943">Moje seznamy</string>
     <string id="30944">Seznam ke shlédnutí</string>
         
-    <string id="30945">Nepodarilo sa prihlásiť na WebShare</string>
-    <string id="30946">Chcete otvoriť nastavenia?</string>
-    <string id="30947">Nemate aktivne VIP na WebShare</string>
-    <string id="30948">Zbývá ti už jen %s dní s VIP na WebShare VIP</string>
+    <string id="30945">Nepodařilo se přihlásit na WebShare</string>
+    <string id="30946">Chcete otevřít nastavení?</string>
+    <string id="30947">Nemáte aktivní VIP účet na WebShare</string>
+    <string id="30948">Zbývá už jen %s dní s VIP na WebShare VIP</string>
     <string id="30949">Vybrat stream</string>
     <string id="30950">Novinky</string>
     <string id="30951">Lidé (filmy)</string>
     <string id="30952">Lidé (seriály)</string>
     <string id="30953">Vyhledávání</string>
     <string id="30954">Nová verze pluginu</string>
-    <string id="30955">Byla nahrána nová verze pluginu (%s). Zásuvný modul musí být aktualizován tak, aby fungoval správně. Pokud máte automatickou aktualizaci, můžete se aktualizovat kliknutím na tlačítko OK. Pokud se tak nestane, aktualizujte plugin ručně.</string>
+    <string id="30955">Byla nahrána nová verze pluginu (%s). Zásuvný modul musí být aktualizován tak, aby fungoval správně. Pokud máte automatickou aktualizaci, můžete povýšit verzi kliknutím na tlačítko OK. Pokud se tak nestane, aktualizujte plugin ručně.</string>
     <string id="30956">Práve sledované</string>
-    <string id="30957">Příliš mnoho požadavků, prosím počkejte (1 min) a opakujte akci.</string>
+    <string id="30957">Příliš požadavků, prosím počkejte (1 min) a opakujte akci.</string>
     
     <string id="30958">Historie</string>
     <string id="30959">Ohodnocené filmy</string>
@@ -148,7 +148,7 @@
     <!-- dni v tyzdni -->
     <string id="30911">Pondělí</string>
     <string id="30912">Úterý</string>    
-    <string id="30913">Strěda</string>    
+    <string id="30913">Středa</string>    
     <string id="30914">Čtvrtek</string>    
     <string id="30915">Pátek</string>    
     <string id="30916">Sobota</string>    
@@ -169,10 +169,10 @@
     <string id="32488">Hudební</string>
     <string id="36570">IMAX</string>
     <string id="32029">Katastrofický</string>
-    <string id="31003">Komédie</string>
+    <string id="31003">Komedie</string>
     <string id="38861">Krátkometrážní</string>
     <string id="31002">Krimi</string>
-    <string id="47830">Lotkové</string>
+    <string id="47830">Loutkový</string>
     <string id="32369">Muzikál</string>
     <string id="31153">Mysteriózní</string>
     <string id="46777">Podobenství </string>
